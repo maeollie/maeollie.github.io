@@ -154,7 +154,6 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-email-protect
-  - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
