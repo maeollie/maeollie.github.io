@@ -6,7 +6,6 @@
 
 p,
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -19,6 +18,11 @@ strong {
   font-family: "Public Sans", sans-serif;
   color: var(--global-text-color);
 }
+
+h2 {
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--global-theme-color);
 
 hr {
   border-top: 1px solid var(--global-divider-color);
