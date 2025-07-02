@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-my-work",
           title: "my work",
-          description: "A few of my recent projects and collaborations.",
+          description: "Recent projects and collaborations",
           section: "Navigation",
           handler: () => {
             window.location.href = "/my-work/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Print or download my CV",
+          description: "Explore my work history",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
