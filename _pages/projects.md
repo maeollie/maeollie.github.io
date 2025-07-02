@@ -2,13 +2,15 @@
 layout: page
 title: my work
 permalink: /my-work/
-description: A few of my recent projects and collaborations.
+description: Recent projects and collaborations
 nav: true
 nav_order: 2
 
 ---
 
 If you would like to explore more of my past projects and writing, please [get in touch](mailto:makayla.hipke@gmail.com).
+
+***
 
 ## Digital.gov: Standing up a content operations infrastructure
 
