@@ -21,3 +21,7 @@ One of my co-workers once called me the “all-around do-what-needs-to-be-done p
 ## I'm also a civic tech researcher
 
 I fell sideways into civic tech while working on my master of public administration at UNC–Chapel Hill. My journey started with a project on [hiring digital talent](https://beeckcenter.georgetown.edu/event/digital-service-team-hiring-insights-and-question-bank/), supported by the Beeck Center at Georgetown University. My capstone research explored [tech talent retention in state and local government](https://digitalgovernmenthub.org/library/expectations-vs-reality-retention-challenges-and-strategies-for-u-s-state-and-local-government-digital-services-teams/).
+
+## I'd like to connect
+
+The best way to reach me is by email at [makayla.hipke@gmail.com](mailto:makayla.hipke@gmail.com). You can also find me on [LinkedIn[(https://www.linkedin.com/in/mhipke/).
