@@ -33,7 +33,7 @@ As a result of this work, our team significantly reduced the response time for c
 
 ## Overhauling a website to reflect expertise and credibility
 
-{% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %} 
+{% include figure.liquid loading="eager" path="assets/img/dfi-website.png" title="example image" class="img-fluid rounded z-depth-1" %} 
 
 The Development Finance Initiative (DFI) is a consultancy that provides specialized real estate expertise to local governments across North Carolina. DFI has been around for nearly 15 years and supported hundreds of community-driven projects, but its website was no longer serving user needs. I worked with a web developer and a graphic designer to create a fresh web presence that reflected DFI’s expertise and breadth of work.
 
