@@ -14,7 +14,7 @@ If you would like to explore more of my past projects and writing, please [get i
 
 ## Digital.gov: Standing up a content operations infrastructure
 
-{% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %} 
+{% include figure.liquid loading="eager" path="assets/img/DG workflow.png" title="Digital.gov content SOP" class="img-fluid rounded z-depth-1" alt="Screengrab of a word processing document showing the Digital.gov content standard operating procedures" %} 
 
 When I joined the team as a federal employee, [Digital.gov](https://digital.gov) had recently doubled the size of its content team but lacked the content governance necessary to achieve its product goals. I took on leadership of the content workstream, incrementally building mature and sustainable content operations based on team needs and existing rituals. 
 
