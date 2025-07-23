@@ -8,13 +8,13 @@ nav_order: 2
 
 ---
 
-If you would like to explore more of my past projects and writing, please [get in touch](mailto:makayla.hipke@gmail.com).
+If you would like to explore more of my past projects and writing, please [get in touch](mailto:makayla.hipke@gmail.com).  
 
-***
+***  
 
-## Digital.gov: Standing up a content operations infrastructure
+## Digital.gov: Standing up a content operations infrastructure  
 
-{% include figure.liquid loading="eager" path="assets/img/DG workflow.png" title="Digital.gov content SOP" class="img-fluid rounded z-depth-1" alt="Screengrab of a word processing document showing the Digital.gov content standard operating procedures" %} 
+{% include figure.liquid loading="eager" path="assets/img/contribute-to-dg.png" title="Digital.gov content SOP" class="img-fluid rounded z-depth-1" alt="Screengrab of Digital.gov, page title: Contribute to Digital.gov" %} 
 
 When I joined the team as a federal employee, [Digital.gov](https://digital.gov) had recently doubled the size of its content team but lacked the content governance necessary to achieve its product goals. I took on leadership of the content workstream, incrementally building mature and sustainable content operations based on team needs and existing rituals. 
 
