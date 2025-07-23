@@ -24,4 +24,4 @@ I fell sideways into civic tech while working on my master of public administrat
 
 ## I'd like to connect
 
-The best way to reach me is by email at [makayla.hipke@gmail.com](mailto:makayla.hipke@gmail.com). You can also find me on [LinkedIn[(https://www.linkedin.com/in/mhipke/).
+The best way to reach me is by email at [makayla.hipke@gmail.com](mailto:makayla.hipke@gmail.com). You can also find me on [LinkedIn](https://www.linkedin.com/in/mhipke/).
