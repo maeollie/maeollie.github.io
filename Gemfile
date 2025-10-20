@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem "jekyll", "~> 5.0"
+gem "sassc", "~> 2.4"
+gem "github-pages", group: :jekyll_plugins
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
